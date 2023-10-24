@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**darrendube/darrendube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Darren Dube, a Data Science student in South Africa
 
-Here are some ideas to get you started:
+![Darren's GitHub stats](https://github-readme-stats.vercel.app/api?username=darrendube&show_icons=true&hide_rank=true&theme=codeSTACKr)
+[![Top Langs](https://github-readme-stats-gamma-dun-15.vercel.app/api/top-langs/?username=darrendube&theme=city_lights)](https://github.com/darrendube/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://github-readme-stats-gamma-dun-15.vercel.app/
+## Blog posts I've written
+
+[**My Blog Posts**](https://darrendube.github.io/blog)
+
+
