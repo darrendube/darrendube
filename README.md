@@ -2,8 +2,8 @@
 
 I'm Darren Dube, a Data Science student in South Africa
 
-![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
-![Instagram](https://img.shields.io/badge/Instagram-DD2A76?style=for-the-badge&logo=r&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darrendube) 
+[![Instagram](https://img.shields.io/badge/Instagram-DD2A76?style=for-the-badge&logo=r&logoColor=white)](https://instagram.com/darrendube)
 
 ![Darren's GitHub stats](https://github-readme-stats.vercel.app/api?username=darrendube&show_icons=true&hide_rank=true&theme=codeSTACKr)
 
