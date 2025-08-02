@@ -6,7 +6,7 @@ You can catch me on [LinkedIn](https://linkedin.com/in/darrendube), or visit my 
 
 ## A few things I've worked on
 
-- 🗣️ [**A Parts-of-speech tagger**](https://github.com/darrendube/parts-of-speech-tagger) - based on a Hidden Markov Model        
+- 🗣️ [**A parts-of-speech tagger**](https://github.com/darrendube/parts-of-speech-tagger) - based on a Hidden Markov Model        
 - ✈️ [**Analysis of airline performance in FY2022/23**](https://darrendube.github.io/blog/airline-analysis/)
 - 👨‍💻 **2023 Stellenbosch University Hackathon** - awarded 3rd place prize
 
