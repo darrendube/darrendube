@@ -1,17 +1,21 @@
 # Hi there 👋
 
-I'm Darren Dube, a Data Science student in South Africa
+I'm Darren Dube, a Bachelor of **Data Science** (BDatSci) student at Stellenbosch University.
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darrendube) 
-[![Instagram](https://img.shields.io/badge/Instagram-DD2A76?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/darrenzdube)
+You can catch me on [LinkedIn](https://linkedin.com/in/darrendube), or visit my [personal website](https://darrendube.github.io).
 
-![Darren's GitHub stats](https://github-readme-stats.vercel.app/api?username=darrendube&show_icons=true&hide_rank=true&theme=codeSTACKr&border_radius=0)
+## A few things I've worked on
+
+- 🗣️ [**A Parts-of-speech tagger**](https://github.com/darrendube/parts-of-speech-tagger) - based on a Hidden Markov Model        
+- ✈️ [**Analysis of airline performance in FY2022/23**](https://darrendube.github.io/blog/airline-analysis/)
+- 👨‍💻 **2023 Stellenbosch University Hackathon** - awarded 3rd place prize
 
 ## Skills
 
 Languages:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-C28CB22?style=for-the-badge&logo=c&logoColor=white)
 
 Frameworks/libraries:
 ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) 
@@ -19,12 +23,6 @@ Frameworks/libraries:
 ![Tidyverse](https://img.shields.io/badge/Tidyverse-3B2459?style=for-the-badge&logo=tidyverse&logoColor=white)
 ![sklearn](https://img.shields.io/badge/Scikit_learn-3B2459?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-
-
-
-## Blog posts I've written
-
-[**My Blog Posts**](https://darrendube.github.io/blog)
 
 ## A random joke 🙃
 
